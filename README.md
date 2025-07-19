@@ -34,6 +34,7 @@ It's a simple desktop app I made with Java and Swing that lets you switch temps 
    - NetBeans: https://mauricemuteti2015.medium.com/how-to-clone-a-public-git-repository-in-netbeans-8-2-e5d01ccb200c
    - IntelliJ IDEA: https://www.jetbrains.com/guide/tips/clone-from-github/
 
+
 2. Navigate to the folder with all classes:
    ```bash
    cd /temperatureconverter/src/main/java/com/lucadani
