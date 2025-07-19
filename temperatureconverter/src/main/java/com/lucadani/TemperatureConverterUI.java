@@ -1,6 +1,4 @@
-package com.lucadani.gui;
-
-import com.lucadani.utils.TemperatureUtils;
+package com.lucadani;
 
 import javax.swing.*;
 import java.awt.*;

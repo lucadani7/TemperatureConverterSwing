@@ -1,7 +1,5 @@
 package com.lucadani;
 
-import com.lucadani.gui.TemperatureConverterUI;
-
 import javax.swing.*;
 
 public class Main {

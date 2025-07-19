@@ -1,4 +1,4 @@
-package com.lucadani.utils;
+package com.lucadani;
 
 public class TemperatureUtils {
     public static double celsiusToFahrenheit(double c) {
